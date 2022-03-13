@@ -1,7 +1,7 @@
 Malaria Prediction
 ==============================
 
-Laraia Detection for cells
+MaLaraia Detection for cells
 
 Project Organization
 ------------
