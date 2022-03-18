@@ -1,4 +1,4 @@
-<img src="../para1.png" alt="Alt text" title="Optional title">
+<img src="para1.png" alt="Alt text" title="Optional title">
 
 Parasitism is the most frequent method of life; parasites make up more than half of all animal species. Parasites can be present in all animal species and can have a significant impact on human, domestic animal, and wildlife health. Parasitology is the study of parasitism. It is an interdisciplinary field that includes morphology, taxonomy, biology, behavior, life cycles, pathogenesis, epidemiology, ecology, physiology, biochemistry, genetics, molecular biology, infection detection, immunology, and therapy.
 
