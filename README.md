@@ -6,6 +6,12 @@ Despite many advances in parasite treatment and control, infections continue to 
 
 The primarily investigated problem is malaria patients’ classification via Convolutional Neural Network (CNN) and transfer Learning.
 
+The dataset Source is: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+
+But i worked only on the first 1000 images for each class
+
+
+
 References 
 1.	https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#malaria-datasets
 2.	https://en.wikipedia.org/wiki/Malaria
