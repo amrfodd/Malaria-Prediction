@@ -1,3 +1,5 @@
+<h1> Predicting the parasited cell using CNN and build a web app using Flask</h1>
+
 <img src="para1.png" alt="Alt text" title="Optional title">
 
 Parasitism is the most frequent method of life; parasites make up more than half of all animal species. Parasites can be present in all animal species and can have a significant impact on human, domestic animal, and wildlife health. Parasitology is the study of parasitism. It is an interdisciplinary field that includes morphology, taxonomy, biology, behavior, life cycles, pathogenesis, epidemiology, ecology, physiology, biochemistry, genetics, molecular biology, infection detection, immunology, and therapy.
@@ -19,3 +21,4 @@ References
 4.	https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 5.	https://keras.io/api/applications/vgg/
 6.	https://www.mcgill.ca/chpi/centre/diseases
+7.  https://www.youtube.com/watch?v=H-bcnHE6Mes&ab_channel=KrishNaik
